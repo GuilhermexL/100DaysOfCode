@@ -13,7 +13,7 @@ Junte-se a mim nesta jornada de crescimento e aprendizado. Estou empolgado para 
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
 
 
-<h1> Roteiro de Estudos💻 </h1>
+<h1>Roteiro de Estudos💻</h1>
 
 ---
 
@@ -29,7 +29,7 @@ Junte-se a mim nesta jornada de crescimento e aprendizado. Estou empolgado para 
 - [x] **Dia 7**: Entenda o conceito de métodos e crie funções simples.
 - [x] **Dia 8**: Revise os conceitos básicos e pratique com mais exercícios.
 - [x] **Dia 9**: Resolva exercícios de lógica de programação.
-- [ ] **Dia 10**: Projeto prático: implemente um programa simples (ex.: calculadora).
+- [x] **Dia 10**: Projeto prático: implemente um programa simples.
 
 ---
 
@@ -112,6 +112,5 @@ Junte-se a mim nesta jornada de crescimento e aprendizado. Estou empolgado para 
 ---
 ### Quer participar do projeto e não sabe como começar/fazer?
 - Acesse as regras: https://github.com/sspacecoding/100DiasSpaceCoders
-<br>
 
-<h3>Que a força do conhecimento esteja conosco! 🖖</h3>
+<h3 align="center">Que a força do conhecimento esteja conosco! 🖖</h3>
