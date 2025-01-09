@@ -34,7 +34,7 @@ Junte-se a mim nesta jornada de crescimento e aprendizado. Estou empolgado para 
 ---
 
 #### **Dias 11 a 20: Programação Orientada a Objetos (POO)**
-- [ ] **Dia 11**: Conceito de classes, objetos e instância.
+- [x] **Dia 11**: Conceito de classes, objetos e instância.
 - [ ] **Dia 12**: Construtores e a palavra-chave `this`.
 - [ ] **Dia 13**: Encapsulamento: getters e setters.
 - [ ] **Dia 14**: Herança e polimorfismo.
