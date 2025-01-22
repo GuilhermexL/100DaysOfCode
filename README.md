@@ -20,96 +20,84 @@ Junte-se a mim nesta jornada de crescimento e aprendizado. Estou empolgado para 
 ### **Desafio 100 Days Of Java - Plano Diário**
 
 #### **Dias 1 a 10: Fundamentos do Java**
-- [x] **Dia 1**: Instale o JDK, configure sua IDE (IntelliJ) e entenda o básico do Java. 
-- [x] **Dia 2**: Trabalhe com tipos de dados, variáveis e operadores.
-- [x] **Dia 3**: Estude as estruturas de controle: `if`, `else`, e `switch`.
-- [x] **Dia 4**: Entenda loops: `for`, `while` e `do-while`.
-- [x] **Dia 5**: Pratique estrutura sequencial e repetitiva com exercícios simples.
-- [x] **Dia 6**: Estude arrays e listas (introdução).
-- [x] **Dia 7**: Entenda o conceito de métodos e crie funções simples.
-- [x] **Dia 8**: Revise os conceitos básicos e pratique com mais exercícios.
-- [x] **Dia 9**: Resolva exercícios de lógica de programação.
-- [x] **Dia 10**: Projeto prático: implemente um programa simples.
+- [x] **Dia 1**: Introdução ao curso. 
+- [x] **Dia 2**: Conceitos de programação.
+- [x] **Dia 3**: Introdução à linguagem Java.
+- [x] **Dia 4**: Estrutura sequencial.
+- [x] **Dia 5**: Estrutura condicional.
+- [x] **Dia 6**: Estruturas repetitivas.
+- [x] **Dia 7**: Outros tópicos básicos da linguagem.
+- [x] **Dia 8**: Introdução à Programação Orientada a Objetos.
+- [x] **Dia 9**: Construtores, palavra this, sobrecarga, encapsulamento.
+- [x] **Dia 10**: Revisão dos fundamentos com exercícios.
 
 ---
 
-#### **Dias 11 a 20: Programação Orientada a Objetos (POO)**
-- [x] **Dia 11**: Conceito de classes, objetos e instância.
-- [ ] **Dia 12**: Construtores e a palavra-chave `this`.
-- [ ] **Dia 13**: Encapsulamento: getters e setters.
-- [ ] **Dia 14**: Herança e polimorfismo.
-- [ ] **Dia 15**: Enumerações e composição.
-- [ ] **Dia 16**: Crie uma aplicação simples utilizando POO (ex.: cadastro de produtos).
-- [ ] **Dia 17**: Estude o conceito de interfaces e classes abstratas.
-- [ ] **Dia 18**: Pratique interfaces criando um exemplo prático.
-- [ ] **Dia 19**: Revisão dos conceitos de POO com exercícios práticos.
-- [ ] **Dia 20**: Projeto prático: sistema de gerenciamento simples com POO.
+#### **Dias 11 a 20: Trabalhando com Dados**
+- [x] **Dia 11**: Comportamento de memória, arrays e listas.
+- [x] **Dia 12**: Tópicos especiais em Java - data e hora.
+- [x] **Dia 13**: Git e GitHub - Nivelamento básico.
+- [x] **Dia 14**: Enumerações e composição.
+- [x] **Dia 15**: Herança e polimorfismo.
+- [x] **Dia 16**: Tratamento de exceções.
+- [x] **Dia 17**: Projeto - Sistema jogo de xadrez.
+- [x] **Dia 18**: Trabalhando com arquivos.
+- [x] **Dia 19**: Interfaces.
+- [x] **Dia 20**: Revisão e prática com exercícios.
 
 ---
 
-#### **Dias 21 a 30: Estruturas de Dados e Coleções**
-- [ ] **Dia 21**: Introdução a listas, conjuntos e mapas.
-- [ ] **Dia 22**: Estude os métodos da classe `Collections`.
-- [ ] **Dia 23**: Pratique a manipulação de listas e conjuntos.
-- [ ] **Dia 24**: Trabalhe com mapas: `HashMap`, `TreeMap`.
-- [ ] **Dia 25**: Estude generics em Java.
-- [ ] **Dia 26**: Introdução a expressões lambdas.
-- [ ] **Dia 27**: Estude a Stream API (operações como `map`, `filter`).
-- [ ] **Dia 28**: Resolva problemas usando lambdas e streams.
-- [ ] **Dia 29**: Revise coleções e práticas funcionais com exercícios.
-- [ ] **Dia 30**: Projeto prático: sistema de registro de alunos usando coleções.
+#### **Dias 21 a 30: Estruturas de Dados e Programação Funcional**
+- [ ] **Dia 21**: Generics, Set, Map.
+- [ ] **Dia 22**: Programação funcional e expressões lambda.
+- [ ] **Dia 23**: Exercícios práticos com coleções e lambdas.
+- [ ] **Dia 24**: Revisão e desafios sobre estruturas de dados..
+- [ ] **Dia 25**: Implementação de um pequeno projeto usando coleções
+- [ ] **Dia 26**: Introdução ao banco de dados e JDBC.
+- [ ] **Dia 27**: Conexão com banco de dados e operações CRUD.
+- [ ] **Dia 28**: Revisão do JDBC e práticas avançadas.
+- [ ] **Dia 29**: Projeto - CRUD simples com banco de dados.
+- [ ] **Dia 30**: Revisão e exercícios avançados de SQL.
 
 ---
 
-#### **Dias 31 a 40: Tratamento de Exceções e Arquivos**
-- [ ] **Dia 31**: Estude `try-catch-finally` e exceções comuns.
-- [ ] **Dia 32**: Crie exceções personalizadas.
-- [ ] **Dia 33**: Trabalhe com leitura e escrita de arquivos (`File`, `Scanner`).
-- [ ] **Dia 34**: Estude `BufferedReader` e `BufferedWriter`.
-- [ ] **Dia 35**: Introdução ao NIO (novo pacote de entrada e saída).
-- [ ] **Dia 36**: Pratique a manipulação de arquivos com exercícios.
-- [ ] **Dia 37**: Revisão de exceções e manipulação de arquivos.
-- [ ] **Dia 38**: Crie um programa que manipula dados de um arquivo CSV.
-- [ ] **Dia 39**: Resolva problemas práticos com entrada e saída de arquivos.
-- [ ] **Dia 40**: Projeto prático: gerador de relatórios com manipulação de arquivos.
+#### **Dias 31 a 40: Java EE e Web Services**
+- [ ] **Dia 31**: Introdução ao Java EE e JPA Hibernate.
+- [ ] **Dia 32**: Mapear tabelas e configurar JPA.
+- [ ] **Dia 33**: Trabalhando com transações e relacionamentos.
+- [ ] **Dia 34**: Web Services com Spring Boot e JPA Hibernate.
+- [ ] **Dia 35**: Criando APIs RESTful com Spring Boot.
+- [ ] **Dia 36**: Documentação e testes de API com Postman.
+- [ ] **Dia 37**: Projeto Web Services com autenticação e segurança.
+- [ ] **Dia 38**: Trabalhando com MongoDB.
+- [ ] **Dia 39**: Integração do Spring Boot com NoSQL.
+- [ ] **Dia 40**: Revisão e desafios práticos.
 
 ---
 
-#### **Dias 41 a 50: Banco de Dados e JDBC**
-- [ ] **Dia 41**: Introdução ao JDBC e configuração de um banco de dados.
-- [ ] **Dia 42**: Crie conexões com um banco MySQL/PostgreSQL.
-- [ ] **Dia 43**: Estude consultas básicas (SELECT, INSERT, UPDATE, DELETE).
-- [ ] **Dia 44**: Trabalhe com PreparedStatements para evitar SQL Injection.
-- [ ] **Dia 45**: Pratique operações CRUD em um banco de dados.
-- [ ] **Dia 46**: Estude transações e controle de commits.
-- [ ] **Dia 47**: Revisão dos conceitos de JDBC com exercícios.
-- [ ] **Dia 48**: Projeto prático: sistema de cadastro utilizando banco de dados.
-- [ ] **Dia 49**: Introdução ao JPA e Hibernate.
-- [ ] **Dia 50**: Mapeie uma tabela simples usando JPA.
+#### **Dias 41 a 50: Desenvolvimento Frontend**
+- [ ] **Dia 41**: Interface gráfica com JavaFX
+- [ ] **Dia 42**: Criando layouts e interatividade.
+- [ ] **Dia 43**: Conectando JavaFX com banco de dados.
+- [ ] **Dia 44**: Projeto prático - Aplicação desktop com JavaFX.
+- [ ] **Dia 45**: Revisão dos conceitos de front-end Java.
+- [ ] **Dia 46**: Desafios práticos e exercícios
+- [ ] **Dia 47**: Integração entre JavaFX e Web Services.
+- [ ] **Dia 48**: Construção de um dashboard interativo.
+- [ ] **Dia 49**: Finalização e ajustes do projeto.
+- [ ] **Dia 50**: Apresentação do projeto e revisão geral.
 
 ---
 
-#### **Dias 51 a 70: Desenvolvimento Web com Spring Boot**
-- [ ] **Dia 51**: Introdução ao Spring Boot e configuração do projeto.
-- [ ] **Dia 52**: Trabalhe com controladores e rotas.
-- [ ] **Dia 53**: Estude serviços e injeção de dependência.
-- [ ] **Dia 54**: Crie um serviço REST básico.
-- [ ] **Dia 55**: Integre o serviço REST com um banco de dados.
-- [ ] **Dia 56**: Trabalhe com MongoDB utilizando Spring Boot.
-- [ ] **Dia 57**: Adicione validações às APIs com Bean Validation.
-- [ ] **Dia 58**: Estude como consumir APIs externas com RestTemplate.
-- [ ] **Dia 59**: Projeto prático: API de gerenciamento de produtos.
-- [ ] **Dia 60**: Documente sua API com Swagger.
+#### **Dias 51 a 70: Projetos Práticos e Aplicação do Conhecimento**
+- [ ] **Dias 51 a 60**: Desenvolvimento de um sistema completo usando Spring Boot e banco de dados relacional.
+- [ ] **Dias 61 a 70**: Criando uma API RESTful robusta com autenticação JWT.
+- [ ] **Dias 71 a 80**: Desenvolvimento de um sistema integrado com frontend e backend.
+- [ ] **Dias 81 a 90**: Aplicação prática de padrões de projeto e arquitetura.
+- [ ] **Dias 91 a 100**: Revisão geral e preparação de um portfólio com os projetos desenvolvidos.
 
 ---
 
-#### **Dias 71 a 100: Projetos e Revisão**
-- [ ] **Dias 71-80**: Desenvolva um projeto maior (ex.: sistema de gerenciamento).
-- [ ] **Dias 81-90**: Crie uma aplicação com interface gráfica (JavaFX).
-- [ ] **Dias 91-95**: Resolva exercícios avançados e refine seus projetos.
-- [ ] **Dias 96-100**: Finalize o desafio criando um portfólio com seus projetos.
-
----
 ### Quer participar do projeto e não sabe como começar/fazer?
 - Acesse as regras: https://github.com/sspacecoding/100DiasSpaceCoders
 

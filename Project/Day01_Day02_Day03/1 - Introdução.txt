@@ -1,0 +1,1 @@
+Nesse bloco, instalei o Java no pc e o IDE (IntelliJ), para início do curso sem pular etapas.
