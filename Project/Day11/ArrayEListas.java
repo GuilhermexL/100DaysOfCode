@@ -36,9 +36,9 @@ public class ArrayEListas{
 
         // Outro Exemplo
 
-        int[] numeros = new int[5]; // Cria um array de inteiros com 5 posições
-        numeros[0] = 10;            // Define o valor na posição 0
-        numeros[1] = 20;            // Define o valor na posição 1
+        int[] numeros = new int[5];     // Cria um array de inteiros com 5 posições
+        numeros[0] = 10;                // Define o valor na posição 0
+        numeros[1] = 20;                // Define o valor na posição 1
         System.out.println(numeros[0]); // Saída: 10 Nesse caso, se for colocado valor 2, 3... em diante o valor será 0
 
         // Listas
@@ -46,7 +46,7 @@ public class ArrayEListas{
 
         // Exemplo
 
-        // OBS: No caso do Intellij importa sozinho, mas caso precise, deve importar as bibliotecas : import java.util.ArrayList; e import java.util.List;
+        // OBS: No caso do Intellij importa sozinho, mas caso precise, deve importar as bibliotecas : import java.util.ArrayList e import java.util.List;
 
         List<String> nomes = new ArrayList<>();
         nomes.add("Ana"); // Adiciona elementos

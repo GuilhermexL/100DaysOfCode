@@ -98,7 +98,7 @@ Junte-se a mim nesta jornada de crescimento e aprendizado. Estou empolgado para 
 
 ---
 
-### Quer participar do projeto e não sabe como começar/fazer?
+### **Quer participar do projeto e não sabe como começar/fazer?**
 - Acesse as regras: https://github.com/sspacecoding/100DiasSpaceCoders
 
 <h3 align="center">Que a força do conhecimento esteja conosco! 🖖</h3>
