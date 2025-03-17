@@ -1,0 +1,11 @@
+Nesse bloco eu estou colocando como formalização do projeto de 100 dias, pois, já estou utilizando o Git e GitHub subindo atualizações do dia a dia.
+
+* Requisitos de Uso *
+- Ter o Git [https://git-scm.com/downloads] instalado.
+- Criar uma pasta manualmente pelo cmd em 'mkdir nomedoprojeto' ou por interface do Windows
+
+* Lembrando de Comandos *
+
+- git init (Para começar a utilizar as dependências do Git no projeto)
+- git add . (Para adicionar os arquivos ao projeto)
+- git commit -m 'Mensagem de commit para formalização'

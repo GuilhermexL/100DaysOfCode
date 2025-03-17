@@ -38,9 +38,9 @@ Junte-se a mim nesta jornada de crescimento e aprendizado. Estou empolgado para 
 - [x] **Dia 12**: Tópicos especiais em Java - data e hora.
 - [x] **Dia 13**: Git e GitHub - Nivelamento básico.
 - [x] **Dia 14**: Enumerações e composição.
-- [x] **Dia 15**: Herança e polimorfismo.
-- [x] **Dia 16**: Tratamento de exceções.
-- [x] **Dia 17**: Projeto - Sistema jogo de xadrez.
+- [x] **Dia 15**: Projeto - Gerenciamento de Ninjas.
+- [x] **Dia 16**: Herança e polimorfismo.
+- [x] **Dia 17**: Tratamento de exceções.
 - [x] **Dia 18**: Trabalhando com arquivos.
 - [x] **Dia 19**: Interfaces.
 - [x] **Dia 20**: Revisão e prática com exercícios.
